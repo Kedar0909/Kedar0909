@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Kedar0909
-- 👀 I’m interested in Coding/programming
-- 🌱 I'm currently exploring the codes..
-- 💞️ I’m looking to collaborate on ..
+- 👀 I’m here for just exploring the github
+- 💞️ I’m looking to collaborate on ..(nothing)
 - 📫 How to reach me ...
 <!---
 Kedar0909/Kedar0909 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
