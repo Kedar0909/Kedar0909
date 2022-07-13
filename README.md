@@ -21,5 +21,5 @@
   </a>
 </p>
 
-#this code is written by kedar....
-#give credits before use it
+<--this code is written by kedar....
+give credits before use it -->
